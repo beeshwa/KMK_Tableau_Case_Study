@@ -16,9 +16,8 @@ documentation/     -> Supporting documents
 ## Dashboards
 
 - Executive Summary
-- Sales Performance
-- Salesforce Effectiveness
-- Patient Adoption
+- Call Activity Summary
+- Patient Summary
 
 ## Technology Stack
 
