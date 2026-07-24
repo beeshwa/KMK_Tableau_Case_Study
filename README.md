@@ -21,7 +21,7 @@ documentation/     -> Supporting documents
 
 ## Technology Stack
 
-- Tableau Desktop
+- Tableau Desktop 2026.2.0
 - Snowflake
 - SQL
 - GitHub
